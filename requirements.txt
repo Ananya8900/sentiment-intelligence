@@ -1,0 +1,7 @@
+google-api-python-client
+newsapi-python
+pandas
+vaderSentiment
+sqlalchemy
+streamlit
+plotly
